@@ -2,6 +2,12 @@
 
 A client-side rent versus buy calculator with Red Bank, New Jersey starting assumptions. Open `index.html` in a modern browser, or serve the directory with `python3 -m http.server 8000`. No account, build step, or data collection is required.
 
+## Screenshots
+
+![Calculator introduction and overview](screenshots/calculator.png)
+
+![Scenario inputs and rent versus buy comparison chart](screenshots/comparison.png)
+
 All inputs are editable. The 1.78% default property tax rate is the [2025 Red Bank effective rate](https://www.nj.gov/treasury/taxation/taxamnesty/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf), used as an estimate of tax relative to market value, not the rate applied to a specific assessment. Other defaults are illustrative, not quotes.
 
 ## Model
